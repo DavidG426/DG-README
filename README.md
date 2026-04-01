@@ -2,9 +2,9 @@
 ##  About Me
 _My current major is Cyber Security, I love making music and playing covers, I play guitar and sing a little._
 ## ⚒️ Skills
-![Guitar]
-![Writing]
-![Singing]
+![Guitar](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=red)
+![Writing](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=yellow)
+![Singing](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=blue)
 ## 🎉 Interests
 ![Alternative rock](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![JJK+CSM](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
